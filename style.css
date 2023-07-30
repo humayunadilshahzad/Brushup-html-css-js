@@ -72,7 +72,10 @@ footer {
   border: 1px solid blue;
   color: rgb(255, 255, 255);
 }
-
+.sm_style{
+  margin-top: 15px;
+  margin-left: 10px;
+}
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 600px) {
   nav, article {
